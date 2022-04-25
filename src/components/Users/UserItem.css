@@ -1,0 +1,28 @@
+.round-img {
+    width: 60px;
+    border-radius: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.btn {
+	background-color: #212529;
+    color:white;
+	text-decoration: none;	
+	box-shadow:none;
+}
+
+.btn :hover {
+    background-color:#f50000;
+    color: white;
+    transition: none;   
+}
+
+div {
+    color: black;
+}

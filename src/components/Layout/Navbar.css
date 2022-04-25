@@ -1,0 +1,9 @@
+h1 {
+    color:white;
+}
+
+.crown {
+    height: 5rem;
+    width: 5rem;
+    background-image: url('./grafcrown.png');
+}
